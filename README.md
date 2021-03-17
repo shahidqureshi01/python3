@@ -1,2 +1,2 @@
 # python3
-Python3 code to test features wit AI
+Python3 code to test features with AI
